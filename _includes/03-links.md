@@ -1,1 +1,1 @@
-[Github] (https://github.com/michaelbish)
+[GitHub] (https://github.com/michaelbish)
